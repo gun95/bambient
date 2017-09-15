@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">B.ambient</string>
+
+    <string name="bridgeIp">bridgeIp</string>
+    <string name="username">username</string>
+
+</resources>
